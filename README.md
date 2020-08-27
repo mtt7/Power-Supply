@@ -3,11 +3,11 @@ Custom made power supply PCB board
 
 ## Folder structure
 
-# Hardware
+### Hardware
 Contains KiCAD 5.1 files, schematics, pcb design, libraries.
 
-# Production
+### Production
 Contains gerber files.
 
-# Documentation
+### Documentation
 Contains datasheets, design guidelines.
