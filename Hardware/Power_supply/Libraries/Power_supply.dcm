@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LD1085V
+D Linear  regulator adjustable output 3A
+K linear regulator
+$ENDCMP
+#
+$CMP LM2596DSADJ
+D DC-DC Converter
+K dc-dc converter
+$ENDCMP
+#
+#End Doc Library
